@@ -1,0 +1,4 @@
+*.bak
+*.swp
+*_generate.go
+*.sql
